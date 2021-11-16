@@ -1,5 +1,10 @@
+import React, {useRef, useEffect, useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+// Import dependencies
+import * as tf from '@tensorflow/tfjs'
+import * as qna from ''
 
 function App() {
   return (
