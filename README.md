@@ -1,6 +1,6 @@
-// 0. Install dependencies DONE
-// 1. Import dependencies
-// 2. Setup references and state hooks
-// 3. Load Tensorflow Model
-// 4. Handle Questions
-// 5. Setup input, question and result area
+// 0. Install dependencies DONE  
+// 1. Import dependencies DONE  
+// 2. Setup references and state hooks DONE  
+// 3. Load Tensorflow Model DONE  
+// 4. Handle Questions DONE  
+// 5. Setup input, question and result area DONE 
